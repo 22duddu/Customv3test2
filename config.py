@@ -45,7 +45,7 @@ SHORTLINK_API = os.environ.get("SHORTLINK_API", "65676573da083f670527098369bf441
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
 TUT_VID = os.environ.get("TUT_VID","https://t.me/howto_openlink/6")
 #--------------------------------------------
-HELP_TXT = "<b>ನಾನು  ಮೂವಿ ಕಳಿಸುವ Bot!\n\nನಿಮಗೆ ಯಾವುದೇ ಸಮಸ್ಯೆ ಇದ್ದರೆ ಸಂಪರ್ಕಿಸಿ | if you have any problem contact .</b>"
+HELP_TXT = "<b>ನಾನು  ಮೂವಿ ಕಳಿಸುವ Bot!\n\nನಿಮಗೆ ಯಾವುದೇ ಸಮಸ್ಯೆ ಇದ್ದರೆ ಸಂಪರ್ಕಿಸಿ | if you have any problem contact @Cineplex_support_bot</b>"
 ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: @Cineplex_support_bot</blockquote></b>"
 #--------------------------------------------
 #--------------------------------------------
@@ -87,7 +87,7 @@ USER_REPLY_TEXT = "ʙᴀᴋᴋᴀ ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ꜱᴇɴᴘ
 OWNER_TAG = os.environ.get("OWNER_TAG", "Cineplex_support_bot")
 UPI_ID = os.environ.get("UPI_ID", "Premium ತಾತ್ಕಾಲಿಕವಾಗಿ ಲಭ್ಯವಿಲ್ಲ")
 QR_PIC = os.environ.get("QR_PIC", "https://telegra.ph/file/3e83c69804826b3cba066-16cffa90cd682570da.jpg")
-SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/Cineplex_support_bot")
+SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"https://t.me/Cineplex_support_bot")
 #--------------------------------------------
 #Time and its price
 #7 Days
