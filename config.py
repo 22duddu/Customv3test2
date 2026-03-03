@@ -46,7 +46,7 @@ VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in second
 TUT_VID = os.environ.get("TUT_VID","https://t.me/howto_openlink/6")
 #--------------------------------------------
 HELP_TXT = "<b>ನಾನು  ಮೂವಿ ಕಳಿಸುವ Bot!\n\nನಿಮಗೆ ಯಾವುದೇ ಸಮಸ್ಯೆ ಇದ್ದರೆ ಸಂಪರ್ಕಿಸಿ | if you have any problem contact @Cineplex_support_bot</b>"
-ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: @Cineplex_support_bot</blockquote></b>"
+ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: @Cineplex_support_bot </blockquote></b>"
 #--------------------------------------------
 #--------------------------------------------
 START_MSG = os.environ.get("START_MESSAGE", "<b>ʜᴇʟʟᴏ {mention}\n\nನಾನು  ಮೂವಿ ಕಳಿಸುವ Bot!\nನೀವು ಇನ್ಸ್ಟಾಗ್ರಾಂನಲ್ಲಿ ನೋಡಿದ ಮೂವಿ ನಂಬರ್ ಕಳುಹಿಸಿ, ಮೂವಿ ತಕ್ಷಣ ಪಡೆಯಿರಿ 📩🎥\n\nI’m a movie bot!\nSend the movie number from Instagram and get it instantly</b>")
@@ -73,7 +73,7 @@ CMD_TXT = """<blockquote><b>» ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:</b></blockqu
 <b>›› /delfile :</b> Rᴇᴍᴏᴠᴇᴅ files
 """
 #--------------------------------------------
-CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", "<b></b>") #set your Custom Caption here, Keep None for Disable Custom Caption
+CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", "<b> </b>") #set your Custom Caption here, Keep None for Disable Custom Caption
 PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" else False #set True if you want to prevent users from forwarding files from bot
 #--------------------------------------------
 #Set true if you want Disable your Channel Posts Share button
