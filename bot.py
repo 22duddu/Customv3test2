@@ -56,11 +56,11 @@ class Bot(Client):
 
         self.set_parse_mode(ParseMode.HTML)
         self.LOGGER(__name__).info(f"Bot Running..!\n\nCreated by \nhttps://t.me/CodeflixSupport")
-        self.LOGGER(__name__).info(f"""BOT DEPLOYED BY @CODEFLIX_BOTS""")
+        self.LOGGER(__name__).info(f"""BOT DEPLOYED BY @kannadacineplex2""")
 
         self.set_parse_mode(ParseMode.HTML)
         self.username = usr_bot_me.username
-        self.LOGGER(__name__).info(f"Bot Running..! Made by @Codeflix_Bots")   
+        self.LOGGER(__name__).info(f"Bot Running..! Made by @kannadacineplex2")   
 
         # Start Web Server
         app = web.AppRunner(await web_server())
