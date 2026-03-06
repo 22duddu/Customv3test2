@@ -33,11 +33,11 @@ DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://20duddududdu1:20duddududd
 DB_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
 #--------------------------------------------
 FSUB_LINK_EXPIRY = int(os.getenv("FSUB_LINK_EXPIRY", "100"))  # 0 means no expiry
-BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/CodeflixSupport")
+BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/Cineplex_support_bot")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "200"))
 #--------------------------------------------
-START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/ec17880d61180d3312d6a.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/e292b12890b8b4b9dcbd1.jpg")
+START_PIC = os.environ.get("START_PIC", "https://t.me/ajkajauauiw/3")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://t.me/ajkajauauiw/3")
 #--------------------------------------------
 #--------------------------------------------
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "softurl.in")
@@ -50,7 +50,7 @@ ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: @Cineplex_support_bot </blo
 #--------------------------------------------
 #--------------------------------------------
 START_MSG = os.environ.get("START_MESSAGE", "<b>ʜᴇʟʟᴏ {mention}\n\nನಾನು  ಮೂವಿ ಕಳಿಸುವ Bot!\nನೀವು ಇನ್ಸ್ಟಾಗ್ರಾಂನಲ್ಲಿ ನೋಡಿದ ಮೂವಿ ನಂಬರ್ ಕಳುಹಿಸಿ, ಮೂವಿ ತಕ್ಷಣ ಪಡೆಯಿರಿ 📩🎥\n\nI’m a movie bot!\nSend the movie number from Instagram and get it instantly</b>")
-FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "ʜᴇʟʟᴏ {mention}\n\n<b><blockquote>ಕೆಳಗಿರುವ 👇 ನಮ್ಮ ಚಾನೆಲ್‌ಗಳಿಗೆ ಸೇರಿ ನಂತರ ನೀವು ಇನ್ಸ್ಟಾಗ್ರಾಂನಲ್ಲಿ ನೋಡಿದ ಮೂವಿ ನಂಬರ್ ಕಳುಹಿಸಿ, ತಕ್ಷಣ ಮೂವಿ ಫೈಲ್ ಅನ್ನು  ಪಡೆಯಿರಿ\n\nJoin our channels below 👇 then send the movie number you saw on Instagram, get the movie file instantly</b></blockquote>")
+FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "ʜᴇʟʟᴏ {mention}\n\n<b>ಕೆಳಗಿರುವ 👇 ನಮ್ಮ ಚಾನೆಲ್‌ಗಳಿಗೆ ಸೇರಿ ನಂತರ ನೀವು ಇನ್ಸ್ಟಾಗ್ರಾಂನಲ್ಲಿ ನೋಡಿದ ಮೂವಿ ನಂಬರ್ ಕಳುಹಿಸಿ, ತಕ್ಷಣ ಮೂವಿ ಫೈಲ್ ಅನ್ನು  ಪಡೆಯಿರಿ\n\n<blockquote>Join our channels below 👇 then send the movie number you saw on Instagram, get the movie file instantly</b></blockquote>")
 
 CMD_TXT = """<blockquote><b>» ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:</b></blockquote>
 
