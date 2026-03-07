@@ -542,7 +542,7 @@ async def send_saved_file(client: Bot, message: Message):
     # 📁 Handle saved file sending
     data = await db.get_file(text)
     if not data:
-        return await message.reply_text("❌ No files found for this key.")
+        return await message.reply_text("❌ ಈ ನಂಬರ್ ನಲ್ಲಿ ಯಾವುದೇ ಮೂವಿ ಸೇರಿಸಿಲ್ಲ No movie is included in this number.")
 
     try:
         sent_msgs = []
