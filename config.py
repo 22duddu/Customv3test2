@@ -50,7 +50,7 @@ ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: @Cineplex_support_bot </blo
 #--------------------------------------------
 #--------------------------------------------
 START_MSG = os.environ.get("START_MESSAGE", "<b>ʜᴇʟʟᴏ {mention}\n\nನಾನು  ಮೂವಿ ಕಳಿಸುವ Bot!\nನೀವು ಇನ್ಸ್ಟಾಗ್ರಾಂನಲ್ಲಿ ನೋಡಿದ ಮೂವಿ ನಂಬರ್ ಕಳುಹಿಸಿ, ಮೂವಿ ತಕ್ಷಣ ಪಡೆಯಿರಿ 📩🎥\n\nಈ ವೀಡಿಯೊ ನೋಡಿ👇\nhttps://t.me/ajkajauauiw/5\n\nI’m a movie bot!\nSend the movie number from Instagram and get it instantly</b>")
-FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "ʜᴇʟʟᴏ {mention}\n\n<b>ಮೊದಲು ಕೆಳಗಿರುವ 👇 ನಮ್ಮ ಚಾನೆಲ್‌ಗಳಿಗೆ ಸೇರಿ ನಂತರ ನೀವು ಇನ್ಸ್ಟಾಗ್ರಾಂನಲ್ಲಿ ನೋಡಿದ ಮೂವಿ ನಂಬರ್ ಕಳುಹಿಸಿ, ತಕ್ಷಣ ಮೂವಿ ಫೈಲ್ ಅನ್ನು  ಪಡೆಯಿರಿ\n\n<blockquote>👇ಗೊತ್ತಾಗಿಲ್ಲ ಅಂದರೆ ಈ ವೀಡಿಯೊ ನೋಡಿ👇</blockquote>\nhttps://t.me/ajkajauauiw/5\n\nJoin our channels below 👇 then send the movie number </b>")
+FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "ʜᴇʟʟᴏ {mention}\n\n<b>ಮೊದಲು ಕೆಳಗಿರುವ 👇 ನಮ್ಮ ಚಾನೆಲ್‌ಗಳಿಗೆ ಸೇರಿ ನಂತರ ನೀವು ಇನ್ಸ್ಟಾಗ್ರಾಂನಲ್ಲಿ ನೋಡಿದ ಮೂವಿ ನಂಬರ್ ಕಳುಹಿಸಿ, ತಕ್ಷಣ ಮೂವಿ ಫೈಲ್ ಅನ್ನು  ಪಡೆಯಿರಿ\n\n <blockquote>👇ಗೊತ್ತಾಗಿಲ್ಲ ಅಂದರೆ ಈ ವೀಡಿಯೊ ನೋಡಿ👇\n https://t.me/ajkajauauiw/5 </blockquote> \n\n Join our channels below 👇 then send the movie number </b>")
 
 CMD_TXT = """<blockquote><b>» ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:</b></blockquote>
 
