@@ -45,12 +45,12 @@ SHORTLINK_API = os.environ.get("SHORTLINK_API", "")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
 TUT_VID = os.environ.get("TUT_VID","https://t.me/howto_openlink/6")
 #--------------------------------------------
-HELP_TXT = "<b> if you have any problem contact @Cineplex_support_bot</b>"
+HELP_TXT = "<b> ನಾನು  ಮೂವಿ ಕಳಿಸುವ Bot! \n\n ನಿಮಗೆ ಯಾವುದೇ ಸಮಸ್ಯೆ ಇದ್ದರೆ ಸಂಪರ್ಕಿಸಿ | if you have any problem contact @Cineplex_support_bot </b>"
 ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: @Cineplex_support_bot </blockquote></b>"
 #--------------------------------------------
 #--------------------------------------------
-START_MSG = os.environ.get("START_MESSAGE", "<b>ʜᴇʟʟᴏ {mention} \n\n I’m a movie bot! \n Send the movie number from Instagram and get it instantly \n \n If you facing any problem watch this Tutorial 👇 \n https://t.me/ajkajauauiw/5 \n https://t.me/ajkajauauiw/5 \n </b>")
-FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "ʜᴇʟʟᴏ {mention} \n\n <b> Join our channels below 👇 then send the movie number </b>")
+START_MSG = os.environ.get("START_MESSAGE", "<b>ʜᴇʟʟᴏ {mention} \n ನಾನು  ಮೂವಿ ಕಳಿಸುವ Bot! \n ಇನ್ಸ್ಟಾಗ್ರಾಂನಲ್ಲಿ ನೋಡಿದ ಮೂವಿ ನಂಬರ್ ಕಳುಹಿಸಿ, ಮೂವಿ ತಕ್ಷಣ ಪಡೆಯಿರಿ 📩🎥 \n\n ಗೊತ್ತಾಗಿಲ್ಲ ಅಂದ್ರೆ ಈ ವೀಡಿಯೊ ನೋಡಿ👇 \n https://t.me/ajkajauauiw/5 \n\n Send the movie number from Instagram and get it instantly </b>")
+FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "ʜᴇʟʟᴏ {mention}  ಕೆಳಗಿರುವ 👇 ಚಾನೆಲ್‌ಗಳಿಗೆ ಸೇರಿ ನಂತರ ನೀವು ಇನ್ಸ್ಟಾಗ್ರಾಂನಲ್ಲಿ ನೋಡಿದ ಮೂವಿ ನಂಬರ್ ಕಳುಹಿಸಿ, ತಕ್ಷಣ ಮೂವಿ ಫೈಲ್ ಅನ್ನು  ಪಡೆಯಿರಿ \n\n <b> Join our channels below 👇 then send the movie number </b>")
 
 CMD_TXT = """<blockquote><b>» ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:</b></blockquote>
 
